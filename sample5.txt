@@ -1,0 +1,13 @@
+8 //Get
+14 //CopyToX
+8 //Get
+12 //SubX
+25 //IncX
+8 //Get
+16 //CopyToY
+11 //AddY
+9 //Put1
+1
+50 //End
+   
+
